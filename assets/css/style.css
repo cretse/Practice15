@@ -1,0 +1,9 @@
+#colorBlock {
+    width: 200px;
+    height: 200px;
+    background-color: white; 
+    margin: 20px auto;
+}
+#controls {
+    text-align: center;
+}
